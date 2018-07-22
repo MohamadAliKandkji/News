@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="Newsdescription">News description</string>
+    <string name="Newstitle">Istanbul</string>
+    <string name="Newsdescriptionexample">there were many people happy about life</string>
+    <string name="demo1">there were many people happy about life</string>
+    <string name="size_item_key">size_item_key</string>
+    <string name="size_item_default">10</string>
+    <string name="api_key">api-key</string>
+    <string name="api_key_default">624928af-5ab6-4e12-8a95-b2d1a03165fd</string>
+</resources>
